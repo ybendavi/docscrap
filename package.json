@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "os": "^0.1.2",
+    "puppeteer": "^22.6.3",
+  }
+}
